@@ -1,0 +1,60 @@
+$200
+
+This character must be at the end of the first line when defining a function (A) : 
+
+This method will transform a sparse matrix to a dense matrix (A) .todense()
+
+This hyperparameter controls the strength of regularization (A) alpha
+
+In order to check that two values are equivalent, this/these operational character(s) are used in Python (A) ==
+
+This word is used to describe any random variable that is countable by integers (A) Discrete
+
+$400
+
+`.map()` is a method available with this data type (A) Pandas Series, Series
+
+In an sklearn LogisticRegression classifier model, this is the default scoring metric of the object (A) Accuracy
+
+If a model scores very well on it's training set, but much more poorly on the testing set, the model is likely suffering from this (A) Overfit, overly complex, etc.
+
+This Pandas method will return a boolean DataFrame or Series indicating whether or not a value is np.nan (A) .isnull()
+
+In an sklearn train_test_split, the proportional size of the testing set can be controlled by assigning this argument (A) test_size, train_size
+
+$600
+
+The 'l1' penalty is more commonly known as this form of regularization (A) Lasso
+
+At the 95% significance level, A null hypothesis is rejected, and the alternate accepted, when this value is below 0.05 (A) p-value
+
+In a K Nearest Neighbors classifier, this distance metric is also the shortest distance between two points in vector space (A) Euclidean
+
+This distribution is representative of a single experiment with a binomial outcome (A) Bernoulli
+
+The sklearn object train_test_split returns 4 objects, in exactly this order (A) X_train, X_test, y_train, y_test
+
+$800
+
+This numpy function will quickly create an array of numbers, given a beginning value, ending value, and step value (A) np.arange
+
+The classification metric recall is more commonly known as this (A) Sensitivity
+
+This method of dealing with imbalanced classes involves dropping observations of the majority class to obtain a balanced dataset (A) Undersampling
+
+This distance-based model is one of the only non-parametric models we've learned thus far (A) K-Nearest Neighbors, KNN
+
+The classification metric "True Negative Rate" is more commonly known as this (A) Specificity
+
+$1000
+
+This is the link function that bends a Linear Regression into a Logistic Regression (A) Logit Function
+
+This is the term describing when a set of random variables have approximately the same finite variance (A) homoscedacity
+
+From classification metrics, The C in ROC (A) Characteristic
+
+This is the term for describing two highly correlated features (A) Multicollinear
+
+Naive Bayes is considered 'naive' because of this assumption (A) Independence of features
+
